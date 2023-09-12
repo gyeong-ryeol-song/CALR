@@ -8,3 +8,9 @@ Multi-label classification is a task that categorizes all classes of objects pre
 
 # Experimental Results
 ![GitHub 로고](./Images/table1.jpg)
+
+# Acknowledgements
+Our code is built on the following repositories
+* [Multi-Label Learning from Single Positive Labels](https://github.com/elijahcole/single-positive-multi-label)
+* [Large Loss Matters in Weakly Supervised Multi-Label Classification ](https://github.com/snucml/LargeLossMatters)
+* [Query2Label: A Simple Transformer Way to Multi-Label Classification](https://github.com/SlongLiu/query2labels)
